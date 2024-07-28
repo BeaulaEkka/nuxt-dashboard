@@ -1,10 +1,22 @@
-<script setup>
-import { Button } from "@/components/ui/button";
-</script>
+<script setup></script>
 
 <template>
-  <div>
-    <h1>main index page</h1>
+  <div class="grid gap-8 h-screen">
+    <header>
+      <div>
+        <p>Hi, Beaula Welcome Back !</p>
+        <h1>Dashboard</h1>
+      </div>
+    </header>
+
+    <main>
+      Tabs: today this week this month
+      <section>chart</section>
+    </main>
+
+    <footer>
+      <p>3 different cards</p>
+    </footer>
   </div>
 </template>
 
