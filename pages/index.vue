@@ -4,8 +4,7 @@ import { Button } from "@/components/ui/button";
 
 <template>
   <div>
-    <h1>index page</h1>
-    <Button variant="default">Press me</Button>
+    <h1>main index page</h1>
   </div>
 </template>
 
