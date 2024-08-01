@@ -6,7 +6,7 @@
       <Sidebar />
     </aside>
 
-    <main class="p-8"><slot /></main>
+    <main class="p-8 w-full"><slot /></main>
   </div>
 </template>
 
